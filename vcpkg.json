@@ -1,0 +1,8 @@
+{
+  "name": "lab8-dborm",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sqlite3",
+    "sqlite-orm"
+  ]
+}
